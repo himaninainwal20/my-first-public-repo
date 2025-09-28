@@ -1,6 +1,7 @@
 # my-first-public-repo
-Learning Git and GitHub basics
 
+Learning Git and GitHub basics
 
 first public repo readme :)
 
+Himani Nainwal
